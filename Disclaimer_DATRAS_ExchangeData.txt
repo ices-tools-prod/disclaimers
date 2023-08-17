@@ -108,3 +108,5 @@ Available online at http://www.marineregions.org/. Consulted on 2017-02-15.
 Further details about the dataset and related services can be found at the metadata catalogue.
 ICES Datasets: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?query_string={"groupOwner":{"10":true},"resourceType":{"dataset":true}}
 ICES Services: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?query_string={"groupOwner":{"10":true},"resourceType":{"service":true}}
+
+DATRAS datasets: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?isTemplate=n&resourceTemporalDateRange=%7B%22range%22:%7B%22resourceTemporalDateRange%22:%7B%22gte%22:null,%22lte%22:null,%22relation%22:%22intersects%22%7D%7D%7D&sortBy=relevance&sortOrder=&query_string=%7B%22cl_topic.key%22:%7B%22biota%22:true%7D%7D&from=1&to=30&any=DATRAS
