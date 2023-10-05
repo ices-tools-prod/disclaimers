@@ -33,6 +33,12 @@ Whilst the data have been extensively checked by both the supplying institutes
 and ICES there are inherent flaws in gathering the information. 
  For example:
 
+* Please be aware that there are known issues with the way CatCatchWgt has been
+  reported until 2023. These are documented in
+  https://doi.org/10.17895/ices.pub.23743989.v1.
+  Visit the following link for up-to-date information about outstanding and fixed issues: 
+  https://www.ices.dk/data/data-portals/Pages/Datras_news_and_updates.aspx.
+
 * In spite of the fact that now all bottom trawl surveys are in the same database
    and often at least partially overlap in time period or area covered, there are
    differences between the surveys that do not allow the combination of data from 
