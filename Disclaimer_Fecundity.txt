@@ -9,7 +9,7 @@ This file is the counterpart to the data download with the code: xxxxxxxxxxxxxxx
 
 2. CONTACT INFORMATION
 For feedback or queries about this data download, contact ICES at:
-Email: eggsandlarvae@ices.dk
+Email: accessions@ices.dk
 
 Tel.:	+45 3338 6700
 Find more information at:
@@ -19,9 +19,7 @@ Web:	https://www.ices.dk/data/Pages/default.aspx
 3. DATA SPECIFIC INFORMATION
 
  The Fecundity and Atresia website provides the user with the ability to query the ICES Fecundity and Atresia database 
- and download the data. 
- 
- Note that additional data such as methods and QA may be available. To have access to the complete data set,
+ and download the data. Note that additional data such as methods and QA may be available. To have access to the complete data set,
  the user can request this by specifying the provided code plus the extra information required.
 
 
