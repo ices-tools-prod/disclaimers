@@ -24,7 +24,7 @@ Documentation of the data model can be found at: https://esas-docs.ices.dk
 Information about the metadata and services (API) can be found in the links in section 7.
 The Download ZIP bundle includes the requested data file in the CSV format (description on this link: http://datsu.ices.dk/web/selRep.aspx?Dataset=148), and the data disclaimer.
 
-Note that additional data, such as methods and quality assurance may be available.
+Note that the ESAS data downloaded based on the WoRMS species codes need to be treated with caution, as the ESAS species codes provided in data submission do not always have semantic match 'same as' with the displayed WoRMS AphiaIDs. Check for more information at https://esas-docs.ices.dk/species/.
 Please consult the ESAS landing page for further information: https://esas.ices.dk
 
 4. TERMS OF USE: DATA
