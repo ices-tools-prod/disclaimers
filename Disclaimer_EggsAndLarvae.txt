@@ -78,6 +78,7 @@ Please acknowledge the following data sources when using the data:
  MI, Ireland
  MRI, Iceland
  MSS, Scotland
+ SLU Aqua, Sweden
  Thünen Institute, Germany
  University of Maine, USA
 
