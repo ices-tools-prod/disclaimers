@@ -32,7 +32,7 @@ Download ZIP bundle includes the requested data file in the CSV format, a PDF do
 
 DOME XHAT web-services (https://dome.ices.dk/api/XHAT/...) are designed to serve input data to the Hazardous Substances Assessment Tools for AMAP, HELCOM and OSPAR.
 Download ZIP bundle includes the requested data as a tab separated text file and the data disclaimer. Data file structure is flat, with rows used as record separators, tab as field separators, and points as decimal separators.
-Please note that for data downloaded through the DOME ICES XHAT API, fish disease data (gross diseases - B-GRS and histopathology - B-HST) is not included with the biological data, they can can found in the ICES Data Portal (https://data.ices.dk) or DOME views (https://dome.ices.dk/views).
+Please note that for data downloaded through the DOME ICES XHAT API, fish disease data (gross diseases - B-GRS and histopathology - B-HST) is not included with the biological data, they can be found in the ICES Data Portal (https://data.ices.dk) or DOME views (https://dome.ices.dk/views).
 
 4. TERMS OF USE: DATA 
 
