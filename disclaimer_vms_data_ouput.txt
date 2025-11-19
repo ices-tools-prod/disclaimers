@@ -38,6 +38,10 @@ The downloading and installation of software from https://www.ices.dk/ is at you
 Data sources should be acknowledged by a citation. Detailed information and examples of citations can be found in ICES Data Policy: https://ices.dk/data/guidelines-and-policy/Pages/ICES-data-policy.aspx.
 
 Recommended citation:
+ICES (2022). Data use licence for VMS and logbook data managed by ICES. ICES Data Licences and Policies. https://doi.org/10.17895/ices.pub.19248980
+
+Citation for the most recent data call:
+ICES (2025). ICES Data call 2025 - Data submission of VMS/Log book data. Data Calls. Report. https://doi.org/10.17895/ices.pub.29146643.v1
 
 7. METADATA
 Further details about the dataset and related advice can be found in the advice publication: 
