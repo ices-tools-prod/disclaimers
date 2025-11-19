@@ -15,13 +15,19 @@ Web: https://www.ices.dk/data/Pages/default.aspx
  
  
 3. DATA SPECIFIC INFORMATION 
-This application contains the fishing opportunity advice for fish stocks assessed by ICES. The official publications of it can be found here:  
-https://www.ices.dk/advice/Pages/Latest-Advice.aspx  
-The published pdfs of advice are the official advice. Though the app and the databases used have been quality controlled, there may be small errors or differences between the published advice and the data in the fisheriesXplorer. If any differences are noticed, please e-mail accessions@ices.dk or luca.lamoni@ices.dk so that corrections can be made. 
-Each advice displayed in the fisheriesXplorer is linked to an assessment that can be viewed also in the ICES Stock Assessment Graph database and in the Advice and Scenarios database: assessments (key stock and fishery metrics), biological and fishery reference points and settings for the figures and tables (including items such as ‘Absolute/Relative’ basis for the assessment results) as presented in the recurrent ICES advice on fishing opportunities for fish stocks in the Northeast Atlantic. 
+FisheriesXplorer follows ICES' Fisheries Overviews in providing a summary of fisheries' activities, impacts and stock status within a
+given ICES ecoregion. The data used in each plot and table
+is freely available for downloading as a zip file.
 
-The data displayed in the fisheriesXplorer is freely available for downloading. 
- 
+Data displayed within FisheriesXplorer are updated with according to different schedules, with some data being updated on annual basis
+inline with the stock assessment schedule. Data drawn from ICES stock databases SID, SAG & ASD are continually updated within the app.
+Other data sources are updated on an annual or multiannual basis.
+
+Users are urged to treat the data with caution. If the user has any
+queries on the validity of the data or the methods applied they should
+contact advice@ices.dk.
+The published Fisheries Overviews pdfs are the official advice. Though the app and the databases used have been quality controlled, there may be small errors or differences between the published advice and the data in the fisheriesXplorer. If any differences are noticed, please e-mail accessions@ices.dk or luca.lamoni@ices.dk so that corrections can be made. 
+
  
 4. TERMS OF USE: DATA  
 ICES makes data available to users in an open, timely and easy way, but ICES remains dependent on data contributions. 
@@ -48,14 +54,17 @@ The downloading and installation of software from https://www.ices.dk/ is at you
 Data sources should be acknowledged by a citation. Detailed information and examples of citations can be found in ICES Data Policy: https://ices.dk/data/guidelines-and-policy/Pages/ICES-data-policy.aspx 
  
 Standard citation 
-”ICES fisheriesXplorer. Copenhagen, Denmark. ICES. [accessed date]. https://ices-taf.shinyapps.io/fisheriesXplorer/?assessmentkey=[assessmentKey of the stock]” 
+”ICES fisheriesXplorer. Copenhagen, Denmark. ICES. [accessed date]. https://ices-taf.shinyapps.io/fisheriesXplorer/” 
  
 Extended citation 
+?
 ”ICES fisheriesXplorer. Copenhagen, Denmark. ICES. [accessed date]. https://ices-taf.shinyapps.io/fisheriesXplorer/?assessmentkey=[assessmentKey of the stock]” 
-A Data Citation may also include a URL to the database. Please see the ICES data policy for full details of citation. 
+??A Data Citation may also include a URL to the database. Please see the ICES data policy for full details of citation. 
  
  
 7. METADATA 
 Further details about the dataset and related services can be found at the metadata catalogue. 
+
+fisheriesXplorer: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/metadata/f51bc2ed-d1ee-42ac-bbc4-d2f3a2f0d7d1
 ICES Datasets: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?facet.q=type%2Fdataset%26orgName%2FICES 
 Services: https://gis.ices.dk/geonetwork/srv/eng/catalog.search#/search?facet.q=type%2Fservice 
